@@ -1,0 +1,4 @@
+com\lx\spring\springcloud\Dept_Consumer80_Boot.class
+com\lx\spring\myrule\bean\MySelfRule.class
+com\lx\spring\springcloud\controller\Dept_Consumer_Controller.class
+com\lx\spring\springcloud\config\BeanConfig.class
